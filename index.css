@@ -185,6 +185,10 @@ h1{
     margin: 25px auto;
 }
 
+.main_text0 > .icons > li > .more {
+    color: white;
+}
+
 /* main_text1 */
 
 .main_text1{
